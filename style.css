@@ -1,0 +1,36 @@
+
+body {
+    background: linear-gradient(-70deg, #fa7c30 34%, rgba(0, 0, 0, 0) 30%);
+}
+
+h2 {
+    margin: 10px;
+    text-align: center;
+}
+
+.main {
+    text-align:center;
+}
+
+#image {
+    width: 480px;
+    height: 380px;
+}
+
+#interview-time {
+    margin-inline-start: 880px;
+}
+
+#interview-info{
+    text-align: left;
+    margin-left: 80px;
+}
+
+.base-camp {
+    margin-right: -800px;
+    text-align:center;
+}
+
+#name {
+    margin-right: 950px;
+}
